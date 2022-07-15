@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate science student from Bolivia</h3>
+<h3 align="center">A passionate Science student from Bolivia</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/6c2369e78e5e4ead95088067cef46e0a/tumblr_inline_oxpqd0eum21tzhl5u_540.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmalcob&label=Profile%20views&color=0e75b6&style=flat" alt="jmalcob" /> </p>
